@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+kafka="../kafka_2.13-3.1.0"
+noBrokers=1
+for i in $(eval echo "{0..$noBrokers}")
+do
+	rm -rf tmp/kafka-logs-$i tmp/zookeeper
+done
+
+$kafka/bin/kafka-topics.sh --delete --topic Sensor --bootstrap-server localhost:9092
+
+$kafka/bin/kafka-server-stop.sh  > "serverstop.out" 2>&1 &
+
+
+
+$kafka/bin/zookeeper-server-stop.sh  > "zookeperstop.out" 2>&1 &
+printf "Ended Kafka Cluster\n"

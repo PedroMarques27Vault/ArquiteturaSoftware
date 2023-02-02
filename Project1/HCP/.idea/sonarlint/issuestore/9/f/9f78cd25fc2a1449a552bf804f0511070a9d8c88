@@ -1,0 +1,17 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ÌÏ}
+6
+java:S1659"!Declare "eth" on a separate line.(¬ªÄf
+6
+java:S1659"!Declare "wth" on a separate line.(¬ªÄf
+6
+java:S1659"!Declare "mdh" on a separate line.(¬ªÄf
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(“–ýþ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(òçÀáÿÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢ñýúÿÿÿÿ
+C	java:S108:")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+A
+java:S1481"&Remove this unused "c" local variable.(ª››ýÿÿÿÿ
+B
+java:S1481"-Remove this unused "pLeftWth" local variable.(ùäð

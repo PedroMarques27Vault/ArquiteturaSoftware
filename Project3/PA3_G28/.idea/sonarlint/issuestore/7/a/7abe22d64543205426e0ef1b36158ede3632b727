@@ -1,0 +1,61 @@
+
+E
+java:S1444"*Make this "public static PORT" field final(å¸á›ùÿÿÿÿ
+H
+java:S1444"-Make this "public static LB_PORT" field final(‹Àú¬øÿÿÿÿ
+E
+java:S1444"0Make this "public static n_requests" field final(Í’í"
+N
+java:S1444"3Make this "public static requests_done" field final(»à›ùÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¥ˆüÿÿÿÿ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÔÊüÿÿÿÿ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖóÃ½
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯õÑÈ
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–®°›ıÿÿÿÿ
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Úøçøÿÿÿÿ
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ï„³
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ûåĞúÿÿÿÿ
+f	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‚Äâ
+k	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‰ïøøÿÿÿÿ
+f	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰’äØ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İÈ‚ıÿÿÿÿ
+C
+java:S1604s"(Make this anonymous inner class a lambda(‰â½ıÿÿÿÿ
+k
+java:S1104"PMake PORT a static final constant or non-public and provide accessors if needed.(å¸á›ùÿÿÿÿ
+n
+java:S1104"SMake LB_PORT a static final constant or non-public and provide accessors if needed.(‹Àú¬øÿÿÿÿ
+k
+java:S1104"VMake n_requests a static final constant or non-public and provide accessors if needed.(Í’í"
+t
+java:S1104"YMake requests_done a static final constant or non-public and provide accessors if needed.(»à›ùÿÿÿÿ
+U
+java:S1128":Remove this unused import 'javax.swing.event.ChangeEvent'.(„­”¾ùÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'javax.swing.event.ChangeListener'.(†˜ñ‚
+j
+java:S1450>"TRemove the "frame" field and declare it as a local variable in the relevant methods.(…êÀ 
+o
+java:S1450"TRemove the "input" field and declare it as a local variable in the relevant methods.(èı¢ëıÿÿÿÿ
+h
+java:S1450"RRemove the "out" field and declare it as a local variable in the relevant methods.(å¬³¹
+p
+java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Ì§Ü­ûÿÿÿÿ
+j
+java:S3008"ORename this field "PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¸á›ùÿÿÿÿ
+m
+java:S3008"RRename this field "LB_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Àú¬øÿÿÿÿ
+j
+java:S3008"URename this field "n_requests" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í’í"
+s
+java:S3008"XRename this field "requests_done" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»à›ùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Âæ“ú
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+_
+java:S3252E"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ùàèü
+D
+java:S1068")Remove this unused "input" private field.(èı¢ëıÿÿÿÿ
+=
+java:S1068"'Remove this unused "out" private field.(å¬³¹

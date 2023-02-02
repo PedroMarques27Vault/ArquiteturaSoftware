@@ -1,0 +1,9 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙªøÙ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ©Úπ
+Q
+java:S1128"6Remove this unused import 'Server.Interfaces.IWorker'.(„íÒã˙ˇˇˇˇ
+H
+java:S1135#"2Complete the task associated to this TODO comment.(ÖÔúÜ
+>
+java:S1068"(Remove this unused "mcom" private field.(’»…‘

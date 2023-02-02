@@ -1,0 +1,65 @@
+
+a	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+a	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+8
+java:S1643á"Use a StringBuilder instead.(‘¢Š†øÿÿÿÿ
+L
+java:S1153L"1Directly append the argument of String.valueOf().(çğ…±ÿÿÿÿÿ
+L
+java:S1153X"1Directly append the argument of String.valueOf().(ÄÛìÀüÿÿÿÿ
+G
+java:S1153i"1Directly append the argument of String.valueOf().(«¬ˆ¾
+L
+java:S1153z"1Directly append the argument of String.valueOf().(—åƒ´øÿÿÿÿ
+G
+java:S1153‘"1Directly append the argument of String.valueOf().(ÄË¶i
+M
+java:S1153¥"1Directly append the argument of String.valueOf().(ÂÏ«²ûÿÿÿÿ
+H
+java:S1153¹"1Directly append the argument of String.valueOf().(µÉÕç
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Éå•ùÿÿÿÿ
+=
+java:S1604I"(Make this anonymous inner class a lambda(ÔÂÓ
+C
+java:S1604U"(Make this anonymous inner class a lambda( ®éüÿÿÿÿ
+>
+java:S1604b"(Make this anonymous inner class a lambda(§åË“
+C
+java:S1604v"(Make this anonymous inner class a lambda(îÿ©—ùÿÿÿÿ
+?
+java:S1604Œ"(Make this anonymous inner class a lambda(–Üô
+?
+java:S1604 "(Make this anonymous inner class a lambda(–ıÂÍ
+?
+java:S1604´"(Make this anonymous inner class a lambda(ÊîğÓ
+?
+java:S1604Ú"(Make this anonymous inner class a lambda(áÖÙÆ
+D
+java:S1604î"(Make this anonymous inner class a lambda(  şÿÿÿÿ
+D
+java:S1604÷"(Make this anonymous inner class a lambda(Ùı±³üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+K
+java:S1128
+"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+m
+java:S1450"XRemove the "textPanel" field and declare it as a local variable in the relevant methods.(Û™…
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(´úÿÿÿÿ
+m
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ç¬¿ÿÿÿÿÿ
+[
+java:S3252:"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(óÈ•æ
+`
+java:S3252="EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ç¸­Áûÿÿÿÿ
+`
+java:S3252@"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ù»ÿÂøÿÿÿÿ
+`
+java:S3252Õ"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+K
+java:S2864à"4Iterate over the "entrySet" instead of the "keySet".(‡ÂÀ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ë‡ìï
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(•íÏİ
+@
+java:S1068"%Remove this unused "l" private field.(ÿâ²³ûÿÿÿÿ

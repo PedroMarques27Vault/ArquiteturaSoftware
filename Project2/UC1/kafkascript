@@ -1,0 +1,24 @@
+#!/bin/bash
+
+kafka="../kafka_2.13-3.1.0"
+broker="../serverproperties"
+noBrokers=1
+partitions=1
+repFactor=1
+
+
+$kafka/bin/zookeeper-server-start.sh $kafka/config/zookeeper.properties > zookeper.out 2>&1 &
+
+
+for i in $(eval echo "{0..$noBrokers}")
+do
+    
+    $kafka/bin/kafka-server-start.sh $broker/server$i.properties > server$i.out 2>&1 &
+   
+done
+
+
+$kafka/bin/kafka-topics.sh --create --topic Sensor --replication-factor $repFactor --partitions $partitions --bootstrap-server localhost:9092
+
+echo "Created Topic Sensor with $partitions partitions and replication factor of $repFactor"
+echo "When finished, execute the kafkaclean script"

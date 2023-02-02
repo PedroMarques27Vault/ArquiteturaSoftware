@@ -1,0 +1,22 @@
+
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8•Ñ’½—0
+z	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8–Ñ’½—0
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—Ñ’½—0
+W
+java:S1141""5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—Ñ’½—0
+W
+java:S11411"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—Ñ’½—0
+W
+java:S11417"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—Ñ’½—0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İÈ‚ıÿÿÿÿ8ùÖ‰½—0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8›Ñ’½—0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§â¾æÿÿÿÿÿ8Ñ’½—0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(å­¸8ŸÑ’½—0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ØúŸ•üÿÿÿÿ8ŸÑ’½—0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ş¥· 8ŸÑ’½—0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÒÄ°8 Ñ’½—0
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(Šğıúÿÿÿÿ8 Ñ’½—0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÙùÑ…8 Ñ’½—0

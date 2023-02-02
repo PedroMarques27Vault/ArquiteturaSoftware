@@ -1,0 +1,5 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ÌÏ}
+c	java:S116"NRename this field "DoS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êËÀ±
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ

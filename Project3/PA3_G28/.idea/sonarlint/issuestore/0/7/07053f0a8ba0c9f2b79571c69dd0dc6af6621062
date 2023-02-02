@@ -1,0 +1,10 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ØÎÍýÿÿÿÿ8òùƒ½—0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ØÎÍýÿÿÿÿ8òùƒ½—0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ÝÈ‚ýÿÿÿÿ
+G
+java:S1068"+Remove this unused "mserver" private field.(ªæà88ÒÈ…½—0
+I
+java:S1068",Remove this unused "stopFlag" private field.(–‹úé8ÒÈ…½—0
+L
+java:S1068"*Remove this unused "socket" private field.(ë“ä‚øÿÿÿÿ8Ýµ—¾—0

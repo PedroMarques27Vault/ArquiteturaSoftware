@@ -1,0 +1,10 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‚ã¦
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÑ„ÿúÿÿÿÿ
+l	java:S116"WRename this field "signal_queue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âšËù
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹íµ¶ùÿÿÿÿ
+t
+java:S21427"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+D
+java:S1068")Remove this unused "count" private field.(Êâþ¶úÿÿÿÿ

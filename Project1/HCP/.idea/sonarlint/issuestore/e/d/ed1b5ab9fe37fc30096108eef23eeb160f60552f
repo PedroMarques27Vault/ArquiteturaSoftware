@@ -1,0 +1,22 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ñšï
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÑ„ÿúÿÿÿÿ
+c	java:S116"NRename this field "NoS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×«ªÕ
+t
+java:S2142<"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>
+java:S2140B")Use "java.util.Random.nextInt()" instead.(×ñ£z
+D
+java:S2140C")Use "java.util.Random.nextInt()" instead.(½×«¸üÿÿÿÿ
+t
+java:S2142F"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142P"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+V
+java:S2274N";Remove this call to "await" or move it into a "while" loop.(´„¹ìýÿÿÿÿ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(Å¦÷É
+V	java:S125O"<This block of commented-out lines of code should be removed.(©šãýÿÿÿÿ
+t
+java:S2142k"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+=
+java:S1068"'Remove this unused "NoS" private field.(×«ªÕ

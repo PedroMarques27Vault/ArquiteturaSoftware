@@ -1,0 +1,3 @@
+[2022-05-16 01:32:40,307] INFO [ControllerEventThread controllerId=0] Starting (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2022-05-16 01:32:40,435] DEBUG [Controller id=0] Broker 1 was elected as controller instead of broker 0 (kafka.controller.KafkaController)
+org.apache.kafka.common.errors.ControllerMovedException: Controller moved to another broker. Aborting controller startup procedure

@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÑ„ÿúÿÿÿÿ
+B
+java:S1659"'Declare "newClient" on a separate line.(È§„„ÿÿÿÿÿ
+A
+java:S1659"&Declare "canLeave" on a separate line.(È§„„ÿÿÿÿÿ
+t
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142H"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+D
+java:S2140M")Use "java.util.Random.nextInt()" instead.(™¹îûÿÿÿÿ
+t
+java:S2142P"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N
+java:S1068",Remove this unused "canLeave" private field.(È§„„ÿÿÿÿÿ8ó›œÆ‚0

@@ -1,0 +1,30 @@
+
+`
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(®«ùú
+7
+java:S2189""Add an end condition to this loop.(¤èÄ7
+m	java:S135N"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+P
+java:S1141R"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©©‚¦üÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞ¹Ôÿÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º©İä
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÔÛÙ
+U
+java:S2259-"?A "NullPointerException" could be thrown; "s" is nullable here.(Æñ‘
+S
+java:S1854"8Remove this useless assignment to local variable "mode".(ü¦Í£ÿÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ‚ÁŒıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€¤æºùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—°¨Ë
+d	java:S1169"ORename this field "MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„í
+f	java:S116:"QRename this field "STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÜˆÔ
+M	java:S106g"9Replace this use of System.out or System.err by a logger.(’úê
+N
+java:S1854‚"7Remove this useless assignment to local variable "ttm".(‚’Ğ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(•íÏİ
+D
+java:S1481")Remove this unused "mode" local variable.(ü¦Í£ÿÿÿÿÿ

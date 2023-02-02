@@ -1,0 +1,31 @@
+
+L
+java:S1153]"1Directly append the argument of String.valueOf().(˜¦ªÔÿÿÿÿÿ
+L
+java:S1153t"1Directly append the argument of String.valueOf().(’ì«ûÿÿÿÿ
+G
+java:S1153Š"1Directly append the argument of String.valueOf().(—Şÿ
+f	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê…Ô0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
++
+java:S1700"Rename field "server"(¾‚…
+C
+java:S1604Z"(Make this anonymous inner class a lambda(åŒ‚şÿÿÿÿ
+C
+java:S1604q"(Make this anonymous inner class a lambda(¬…ËÂøÿÿÿÿ
+D
+java:S1604‡"(Make this anonymous inner class a lambda(€÷šüÿÿÿÿ
+?
+java:S1604œ"(Make this anonymous inner class a lambda(áÖÙÆ
+D
+java:S1604±"(Make this anonymous inner class a lambda(Ó”ƒúÿÿÿÿ
+S
+java:S1197:"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+_
+java:S3252H"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+[
+java:S3252S"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(Ò¢†œ
+[
+java:S3252j"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(×šÈ
+\
+java:S3252€"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(œÏìÛ

@@ -1,0 +1,55 @@
+
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ—µ‰şÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ—µ‰şÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ—µ‰şÿÿÿÿ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ—µ‰şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
+>
+java:S1604N"(Make this anonymous inner class a lambda(¸¤¤£
+>
+java:S1604"(Make this anonymous inner class a lambda(à²²³
+D
+java:S1604ä"(Make this anonymous inner class a lambda(Îí‰—ûÿÿÿÿ
+U
+java:S1128":Remove this unused import 'javax.swing.event.ChangeEvent'.(„­”¾ùÿÿÿÿ
+S
+java:S1128	"=Remove this unused import 'javax.swing.event.ChangeListener'.(†˜ñ‚
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+B
+java:S1659",Declare "resultsIsEmpty" on a separate line.(üõˆ
+G
+java:S1659%",Declare "totalProcessed" on a separate line.(§¾çŠıÿÿÿÿ
+L
+java:S1659%"1Declare "totalBeingProcessed" on a separate line.(§¾çŠıÿÿÿÿ
+F
+java:S1659%"+Declare "totalRejected" on a separate line.(§¾çŠıÿÿÿÿ
+I
+java:S1659%".Declare "totalResultsSent" on a separate line.(§¾çŠıÿÿÿÿ
+U
+java:S1659Ã"9Declare "requestsBeingProcessedLabel" on a separate line.(ñ¥´ıÿÿÿÿ
+P
+java:S1659Ã"4Declare "requestsProcessedLabel" on a separate line.(ñ¥´ıÿÿÿÿ
+P
+java:S1659Ã"4Declare "currentIterationsLabel" on a separate line.(ñ¥´ıÿÿÿÿ
+J
+java:S1659Ã".Declare "totalRejectLabel" on a separate line.(ñ¥´ıÿÿÿÿ
+J
+java:S1659Ã".Declare "resultsSentLabel" on a separate line.(ñ¥´ıÿÿÿÿ
+M
+java:S1659Ä"1Declare "innerTotalProcessed" on a separate line.(İŠâïøÿÿÿÿ
+n	java:S116"YRename this field "BoundQueueSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úëîã
+|	java:S116"bRename this field "MaximumNumberIterations" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÖ´ìúÿÿÿÿ
+t	java:S116"ZRename this field "InboundRequests" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼„¯øÿÿÿÿ
+g	java:S116!"RRename this field "Results" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×—Îã
+i	java:S116#"ORename this field "Port" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÊ½ıÿÿÿÿ
+|	java:S116%"bRename this field "CurrentNumberIterations" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¾çŠıÿÿÿÿ
+o	java:S116&"ZRename this field "NumberOfWorkers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŞ¡İ
+t
+java:S2142f"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(ë¶§¹
+u
+java:S2142§"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(§ƒª“
+`
+java:S3252Í"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´

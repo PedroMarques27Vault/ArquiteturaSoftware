@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ÌÏ}
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+D
+java:S1905")Remove this unnecessary cast to "INurse".(ø¬“ÿÿÿÿÿ
+D
+java:S1905")Remove this unnecessary cast to "INurse".(¿‘‚şÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ

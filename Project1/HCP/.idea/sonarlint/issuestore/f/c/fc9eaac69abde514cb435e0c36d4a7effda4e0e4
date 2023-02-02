@@ -1,0 +1,11 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ÌÏ}
+K
+java:S1128"0Remove this unused import 'HCP.Monitors.INurse'.(€¯ûÿÿÿÿ
+@
+java:S1905"*Remove this unnecessary cast to "IDoctor".(ÿ¶Ó
+E
+java:S1905"*Remove this unnecessary cast to "IDoctor".(ïÃ‘çúÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+@
+java:S1068"*Remove this unused "random" private field.(Ó½ñ
